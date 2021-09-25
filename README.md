@@ -20,8 +20,6 @@ If using Linux, install the official package for your programming language of ch
 - [Shell](https://www.gnu.org/software/bash/) (for Windows, use the default shell in your [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) distribution or [Cygwin](https://cygwin.com/install.html)) 
 - [C++ and Clang](https://clang.llvm.org/get_started.html) (for Windows, [Cygwin](https://cygwin.com/packages/summary/clang.html) or [Visual Studio](https://docs.microsoft.com/en-us/cpp/build/clang-support-msbuild?view=msvc-160))
 
-### Installing
-
 ### Executing Script (Linux)
 
 - Java: 
