@@ -11,7 +11,7 @@ Personal repository for various CodeWars solutions.
 
 ### Dependencies
 
-If using Linux, install the official package for your programming language of choice. If the package is not available:
+If using Linux, install the official package for your programming language of choice. If the package is not available, or are using Windows:
 - [Java](https://openjdk.java.net/install/)
 - [Kotlin (snapcraft)](https://snapcraft.io/kotlin) (for Windows, download straight from [Github](https://github.com/JetBrains/kotlin/releases/tag/v1.5.31))
 - [Lua](https://www.lua.org/download.html)
