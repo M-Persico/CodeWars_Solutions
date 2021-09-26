@@ -1,7 +1,7 @@
 /* Michael Persico
  * Sept. 25, 2021
- * Square Every Digit (7 kyu)
- * https://www.codewars.com/kata/546e2562b03326a88e000020
+ * You're a square! (7 kyu)
+ * https://www.codewars.com/kata/54c27a33fb7da0db0100040e
  */
 
 #include <iostream>
