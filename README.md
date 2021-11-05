@@ -5,7 +5,7 @@
 
 Personal repository for various CodeWars solutions.
 
-**Programming Languages**: Java 1.8+, Kotlin 1.3, C++17 (Clang), Lua 5.3, Python 3.8, R 3.4.1, Shell (Bash)
+**Programming Languages**: Java 1.8+, Kotlin 1.3, C++17 (Clang), Lua 5.3, Python 3.8, R 3.4.1, Shell (Bash), Rust 1.56+
  
 ## Getting Started
 
@@ -19,6 +19,7 @@ If using Linux, install the official package for your programming language of ch
 - [R](https://cran.r-project.org/mirrors.html) (recommended to install [RStudio](https://www.rstudio.com/products/rstudio/download/#download))
 - [Shell](https://www.gnu.org/software/bash/) (for Windows, use the default shell in your [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) distribution or [Cygwin](https://cygwin.com/install.html)) 
 - [C++ and Clang](https://clang.llvm.org/get_started.html) (for Windows, [Cygwin](https://cygwin.com/packages/summary/clang.html) or [Visual Studio](https://docs.microsoft.com/en-us/cpp/build/clang-support-msbuild?view=msvc-160))
+- [Rust](https://www.rust-lang.org/tools/install)
 
 ### Executing Script (Linux)
 
@@ -58,6 +59,12 @@ python3 <name>.py
 
 ```
 bash <name>.bash
+```
+
+- Rust:
+
+```
+rustc <name>.rs && ./<name>
 ```
 
 # Help
